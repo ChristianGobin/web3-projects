@@ -1,2 +1,5 @@
 # web3-projects
-Web3 projects for the Ethereum Blockchain. The Repo is a portfolio.
+
+Ethereum Networks: mainNet, sepolia
+Tools: hardhat, npm, alchemy-sdk
+Languages: solidity ^0.7.0, JavaScript
