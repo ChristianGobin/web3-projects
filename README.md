@@ -1,7 +1,7 @@
 # web3-projects
 
 Ethereum Networks: mainnet, sepolia<br>
-Tools: hardhat suite, npm, alchemy-sdk<br>
+Tools: hardhat suite, npm, alchemy-sdk, ethers<br>
 Languages: solidity ^0.7.0, JavaScript
 
 <dl>
