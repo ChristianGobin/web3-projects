@@ -14,8 +14,8 @@
 - <code>--save-dev</code> saves the package to package.json file
 
 ## Assets Needed To Deploy
-Alchemy dashboard for API_KEY: https://dashboard.alchemy.com/
-Metamask: PRIVATE_KEY
+- Alchemy dashboard for API_KEY: https://dashboard.alchemy.com/
+- Metamask: PRIVATE_KEY
 
 
 ## Helpful Docs
