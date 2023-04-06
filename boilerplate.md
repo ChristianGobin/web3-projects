@@ -1,4 +1,4 @@
-# Boilerplate to get contracts deployed on the blockchain
+# Some Notes to get things going.
 
 ## Basic Setup
 - dotenv
