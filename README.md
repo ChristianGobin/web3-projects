@@ -1,12 +1,20 @@
-# web3-projects
+# Blockchain and Web3 Development
 
-Ethereum Networks: mainnet, sepolia<br>
-Tools: hardhat suite, npm, alchemy-sdk, ethers<br>
-Languages: solidity ^0.7.0, JavaScript
+## Networks
+- Ethereum: Mainnet, Sepolia
 
-<dl>
-  <dt>SimpleStorage Contract Deployment on Sepolia Network</dt>
-  <dd>
-    Getting started with alchemy development platform, to deploy a simple contract on the Eth Sepolia test network. 
-  </dd>
-</dl>
+## Node Packages
+- Hardhat
+- Alchemy-Sdk
+- Ethers.js
+- dotenv
+
+## Languages & Frameworks
+- JavaScript
+- Vue | Svelte | React
+- Solidity >=0.7.0
+
+## Contents
+- SimpleStorage.sol
+  - contract gets, and sets a value on the blockchain
+  
