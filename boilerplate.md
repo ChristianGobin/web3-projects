@@ -1,6 +1,6 @@
 # Boilerplate to get contracts deployed on the blockchain
 
-## npm packages used
+## Basic Setup
 - --save-dev saves the package to package.json file
 - dotenv
     - <code> npm install dotenv --save-dev </code>
@@ -9,7 +9,9 @@
     - run <code> npm install hardhat --save-dev </code>
     - spin up a hardhat project and configure the <code> hardhat.config.js </code>
     - use <code> API_KEY </code> & <code> PRIVATE_KEY </code> from dot env to deploy to the blockchain
-- <code> npm install alchemy-sdk --save-dev </code>
+- alchemy toolkit
+    - <code> npm install alchemy-sdk --save-dev </code>
+    - configure scripts for js file
 
 ## assets needed
 alchemy dashboard: https://dashboard.alchemy.com/
