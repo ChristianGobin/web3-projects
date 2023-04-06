@@ -13,5 +13,8 @@
 since we use alchemy we'll need the api key from our developer dashboard
 we'll also need the private key from our metamask wallet
 
-## needed doc list
+## needed doc lists
 https://hardhat.org/docs
+https://docs.alchemy.com/reference/api-overview
+https://docs.soliditylang.org/en/v0.8.19/
+https://docs.npmjs.com/
