@@ -12,3 +12,6 @@
 ## assets needed
 since we use alchemy we'll need the api key from our developer dashboard
 we'll also need the private key from our metamask wallet
+
+## needed doc list
+https://hardhat.org/docs
