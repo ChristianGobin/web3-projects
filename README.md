@@ -3,11 +3,9 @@
 ## Networks
 - Ethereum: Mainnet, Sepolia
 
-## Node Packages
+## Development Environments
 - Hardhat
-- Alchemy-Sdk
-- Ethers.js
-- dotenv
+- Alchemy
 
 ## Languages & Frameworks
 - JavaScript
@@ -15,6 +13,5 @@
 - Solidity >=0.7.0
 
 ## Contents
-- SimpleStorage.sol
+- HelloWorld.sol
   - contract gets, and sets a value on the blockchain
-  
